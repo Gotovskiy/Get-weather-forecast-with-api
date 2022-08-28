@@ -1,0 +1,25 @@
+.wether-block {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: lightskyblue;
+    border-radius: 50%;
+    border: 2px solid steelblue;
+    width: 250px;
+    height: 250px;
+}
+h1 {
+    justify-content: center;
+    display: flex;
+}
+.get-button {
+display: flex;
+}
+.header_box {
+    display: flex;
+    justify-content: space-between;
+}
+.weather-img {
+    height: 96px;
+    width: 96px;
+}
